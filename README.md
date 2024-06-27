@@ -24,6 +24,8 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 4. Open Expo Go app on your phone
 
-   - Scan the QR code with Expo Go
+   - Scan the QR code with Expo Go (you need to be on the same wifi network)
    - Or enter the address displayed in the terminal in your mobile browser
    - press "r" in the terminal while to reload the app (when npx start -c is being run)
+
+5. You need .env file with Appwrite configuration
